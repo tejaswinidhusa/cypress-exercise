@@ -15,6 +15,12 @@
 
 The rest of this file contains the boilerplate from create react app:
 
+## Execute the cypress test for exercise.js
+
+In the project directory, you can run:
+
+### sudo ./node_modules/.bin/cypress run --spec cypress/integration/exercise.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -85,9 +91,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-## Execute the cypress test for exercise.js
-
-In the project directory, you can run:
-
-### sudo ./node_modules/.bin/cypress run --spec cypress/integration/exercise.js
